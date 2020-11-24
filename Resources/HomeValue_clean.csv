@@ -1,0 +1,338 @@
+County,State,Home Type,Avg house price
+Los Angeles,CA,4 bedroom,722251.25
+San Diego,CA,4 bedroom,698838.33
+Orange,CA,4 bedroom,860278.42
+Riverside,CA,4 bedroom,448650.92
+San Bernardino,CA,4 bedroom,444484.5
+Santa Clara,CA,4 bedroom,1263564.33
+Alameda,CA,4 bedroom,1097185.67
+Sacramento,CA,4 bedroom,430833.75
+Contra Costa,CA,4 bedroom,683283.08
+Fresno,CA,4 bedroom,345453.75
+Kern,CA,4 bedroom,286456.83
+Ventura,CA,4 bedroom,694896.5
+San Francisco,CA,4 bedroom,1967083.33
+San Mateo,CA,4 bedroom,1873701.42
+San Joaquin,CA,4 bedroom,454664.67
+Stanislaus,CA,4 bedroom,385171.83
+Sonoma,CA,4 bedroom,705535.5
+Tulare,CA,4 bedroom,294634.58
+Santa Barbara,CA,4 bedroom,736496.67
+Monterey,CA,4 bedroom,619206.33
+Solano,CA,4 bedroom,510837.83
+Placer,CA,4 bedroom,568564.75
+San Luis Obispo,CA,4 bedroom,748222.5
+Santa Cruz,CA,4 bedroom,1136656.08
+Merced,CA,4 bedroom,325235.17
+Marin,CA,4 bedroom,1449320.42
+Butte,CA,4 bedroom,469425.0
+Yolo,CA,4 bedroom,544286.5
+El Dorado,CA,4 bedroom,627778.5
+Shasta,CA,4 bedroom,381710.17
+Imperial,CA,4 bedroom,220204.58
+Kings,CA,4 bedroom,280814.67
+Madera,CA,4 bedroom,320014.75
+Napa,CA,4 bedroom,792641.08
+Humboldt,CA,4 bedroom,420122.42
+Nevada,CA,4 bedroom,693709.83
+Sutter,CA,4 bedroom,384866.92
+Mendocino,CA,4 bedroom,618978.25
+Yuba,CA,4 bedroom,331099.67
+Lake,CA,4 bedroom,381085.0
+Tehama,CA,4 bedroom,310872.17
+Tuolumne,CA,4 bedroom,397693.75
+San Benito,CA,4 bedroom,699097.08
+Calaveras,CA,4 bedroom,452248.17
+Siskiyou,CA,4 bedroom,290211.17
+Amador,CA,4 bedroom,467401.58
+Lassen,CA,4 bedroom,259788.08
+Del Norte,CA,4 bedroom,338032.42
+Glenn,CA,4 bedroom,296069.75
+Colusa,CA,4 bedroom,323527.92
+Plumas,CA,4 bedroom,390024.42
+Inyo,CA,4 bedroom,454707.92
+Mariposa,CA,4 bedroom,416220.0
+Mono,CA,4 bedroom,850250.58
+Trinity,CA,4 bedroom,339048.42
+Modoc,CA,4 bedroom,193472.92
+Sierra,CA,4 bedroom,309974.42
+Alpine,CA,4 bedroom,599887.75
+Los Angeles,CA,single family,647795.17
+San Diego,CA,single family,618455.67
+Orange,CA,single family,782885.58
+Riverside,CA,single family,402500.33
+San Bernardino,CA,single family,356285.5
+Santa Clara,CA,single family,1167440.5
+Alameda,CA,single family,893874.92
+Sacramento,CA,single family,381033.33
+Contra Costa,CA,single family,630835.42
+Fresno,CA,single family,269382.17
+Kern,CA,single family,227926.25
+Ventura,CA,single family,627233.5
+San Francisco,CA,single family,1480200.17
+San Mateo,CA,single family,1458696.58
+San Joaquin,CA,single family,382449.33
+Stanislaus,CA,single family,328788.25
+Sonoma,CA,single family,648841.75
+Tulare,CA,single family,224948.83
+Santa Barbara,CA,single family,683220.0
+Monterey,CA,single family,607932.58
+Solano,CA,single family,460861.58
+Placer,CA,single family,517371.67
+San Luis Obispo,CA,single family,633264.25
+Santa Cruz,CA,single family,867712.58
+Merced,CA,single family,283201.75
+Marin,CA,single family,1271696.42
+Butte,CA,single family,327062.17
+Yolo,CA,single family,461428.5
+El Dorado,CA,single family,476654.17
+Shasta,CA,single family,277339.5
+Imperial,CA,single family,170145.92
+Kings,CA,single family,230687.17
+Madera,CA,single family,273915.92
+Napa,CA,single family,722529.25
+Humboldt,CA,single family,332190.17
+Nevada,CA,single family,481453.42
+Sutter,CA,single family,329153.0
+Mendocino,CA,single family,431258.25
+Yuba,CA,single family,280119.42
+Lake,CA,single family,255113.08
+Tehama,CA,single family,228588.83
+Tuolumne,CA,single family,302795.42
+San Benito,CA,single family,641820.17
+Calaveras,CA,single family,328683.42
+Siskiyou,CA,single family,214043.5
+Amador,CA,single family,339985.75
+Lassen,CA,single family,173501.75
+Del Norte,CA,single family,307720.75
+Glenn,CA,single family,239351.42
+Colusa,CA,single family,243592.08
+Plumas,CA,single family,278579.17
+Inyo,CA,single family,359374.58
+Mariposa,CA,single family,299628.58
+Mono,CA,single family,590676.42
+Trinity,CA,single family,279117.33
+Modoc,CA,single family,137182.92
+Sierra,CA,single family,252233.67
+Alpine,CA,single family,438677.75
+Los Angeles,CA,1 bedroom.csv,461371.42
+San Diego,CA,1 bedroom.csv,342420.0
+Orange,CA,1 bedroom.csv,370892.67
+Riverside,CA,1 bedroom.csv,192724.42
+San Bernardino,CA,1 bedroom.csv,180214.83
+Santa Clara,CA,1 bedroom.csv,571944.92
+Alameda,CA,1 bedroom.csv,495895.58
+Sacramento,CA,1 bedroom.csv,237402.0
+Contra Costa,CA,1 bedroom.csv,472802.17
+Fresno,CA,1 bedroom.csv,139808.25
+Kern,CA,1 bedroom.csv,106002.67
+Ventura,CA,1 bedroom.csv,349448.83
+San Francisco,CA,1 bedroom.csv,907512.08
+San Mateo,CA,1 bedroom.csv,670793.83
+San Joaquin,CA,1 bedroom.csv,192457.67
+Stanislaus,CA,1 bedroom.csv,214391.5
+Sonoma,CA,1 bedroom.csv,454912.25
+Tulare,CA,1 bedroom.csv,118419.25
+Santa Barbara,CA,1 bedroom.csv,606090.17
+Monterey,CA,1 bedroom.csv,550121.25
+Solano,CA,1 bedroom.csv,284036.17
+Placer,CA,1 bedroom.csv,335769.33
+San Luis Obispo,CA,1 bedroom.csv,503288.33
+Santa Cruz,CA,1 bedroom.csv,594940.5
+Merced,CA,1 bedroom.csv,189223.67
+Marin,CA,1 bedroom.csv,708654.92
+Butte,CA,1 bedroom.csv,178724.17
+Yolo,CA,1 bedroom.csv,351004.92
+El Dorado,CA,1 bedroom.csv,305110.83
+Shasta,CA,1 bedroom.csv,155237.92
+Imperial,CA,1 bedroom.csv,62426.5
+Kings,CA,1 bedroom.csv,113624.58
+Madera,CA,1 bedroom.csv,190118.08
+Napa,CA,1 bedroom.csv,563370.0
+Humboldt,CA,1 bedroom.csv,268744.83
+Nevada,CA,1 bedroom.csv,314551.17
+Mendocino,CA,1 bedroom.csv,411884.0
+Yuba,CA,1 bedroom.csv,180540.0
+Lake,CA,1 bedroom.csv,152003.92
+Tehama,CA,1 bedroom.csv,116196.33
+Tuolumne,CA,1 bedroom.csv,185744.67
+San Benito,CA,1 bedroom.csv,566521.0
+Calaveras,CA,1 bedroom.csv,208609.0
+Siskiyou,CA,1 bedroom.csv,148782.33
+Amador,CA,1 bedroom.csv,202940.92
+Lassen,CA,1 bedroom.csv,80806.08
+Del Norte,CA,1 bedroom.csv,132455.5
+Glenn,CA,1 bedroom.csv,133632.92
+Colusa,CA,1 bedroom.csv,121545.25
+Plumas,CA,1 bedroom.csv,176983.67
+Inyo,CA,1 bedroom.csv,195392.67
+Mariposa,CA,1 bedroom.csv,203425.17
+Mono,CA,1 bedroom.csv,310166.75
+Trinity,CA,1 bedroom.csv,217042.08
+Modoc,CA,1 bedroom.csv,70793.75
+Alpine,CA,1 bedroom.csv,263697.92
+Los Angeles,CA,2 bedroom.csv,550170.0
+San Diego,CA,2 bedroom.csv,460071.5
+Orange,CA,2 bedroom.csv,527824.33
+Riverside,CA,2 bedroom.csv,278269.17
+San Bernardino,CA,2 bedroom.csv,254807.67
+Santa Clara,CA,2 bedroom.csv,779680.33
+Alameda,CA,2 bedroom.csv,643044.92
+Sacramento,CA,2 bedroom.csv,286750.67
+Contra Costa,CA,2 bedroom.csv,524993.25
+Fresno,CA,2 bedroom.csv,170106.25
+Kern,CA,2 bedroom.csv,138576.25
+Ventura,CA,2 bedroom.csv,425946.67
+San Francisco,CA,2 bedroom.csv,1341905.25
+San Mateo,CA,2 bedroom.csv,1085578.25
+San Joaquin,CA,2 bedroom.csv,245045.5
+Stanislaus,CA,2 bedroom.csv,238204.25
+Sonoma,CA,2 bedroom.csv,541957.92
+Tulare,CA,2 bedroom.csv,149094.92
+Santa Barbara,CA,2 bedroom.csv,659491.83
+Monterey,CA,2 bedroom.csv,585818.67
+Solano,CA,2 bedroom.csv,363216.08
+Placer,CA,2 bedroom.csv,424140.58
+San Luis Obispo,CA,2 bedroom.csv,527050.17
+Santa Cruz,CA,2 bedroom.csv,696164.17
+Merced,CA,2 bedroom.csv,197407.75
+Marin,CA,2 bedroom.csv,866585.42
+Butte,CA,2 bedroom.csv,221282.08
+Yolo,CA,2 bedroom.csv,339558.75
+El Dorado,CA,2 bedroom.csv,337832.25
+Shasta,CA,2 bedroom.csv,181388.75
+Imperial,CA,2 bedroom.csv,123259.42
+Kings,CA,2 bedroom.csv,149550.67
+Madera,CA,2 bedroom.csv,192222.25
+Napa,CA,2 bedroom.csv,636038.75
+Humboldt,CA,2 bedroom.csv,281172.75
+Nevada,CA,2 bedroom.csv,372983.5
+Mendocino,CA,2 bedroom.csv,327711.92
+Yuba,CA,2 bedroom.csv,188182.17
+Lake,CA,2 bedroom.csv,207700.92
+Tehama,CA,2 bedroom.csv,151998.08
+Tuolumne,CA,2 bedroom.csv,242162.17
+San Benito,CA,2 bedroom.csv,533748.83
+Calaveras,CA,2 bedroom.csv,275049.33
+Siskiyou,CA,2 bedroom.csv,161430.33
+Amador,CA,2 bedroom.csv,275626.92
+Lassen,CA,2 bedroom.csv,116043.92
+Del Norte,CA,2 bedroom.csv,173275.17
+Glenn,CA,2 bedroom.csv,179600.5
+Colusa,CA,2 bedroom.csv,172841.17
+Plumas,CA,2 bedroom.csv,230715.42
+Inyo,CA,2 bedroom.csv,264265.0
+Mariposa,CA,2 bedroom.csv,242019.67
+Mono,CA,2 bedroom.csv,440339.83
+Trinity,CA,2 bedroom.csv,251762.17
+Modoc,CA,2 bedroom.csv,90615.25
+Sierra,CA,2 bedroom.csv,219529.42
+Alpine,CA,2 bedroom.csv,349148.83
+Los Angeles,CA,condo,537381.08
+San Diego,CA,condo,449358.0
+Orange,CA,condo,526194.5
+Riverside,CA,condo,293339.92
+San Bernardino,CA,condo,336703.67
+Santa Clara,CA,condo,735378.33
+Alameda,CA,condo,642329.25
+Sacramento,CA,condo,262276.67
+Contra Costa,CA,condo,658115.33
+Fresno,CA,condo,170907.75
+Kern,CA,condo,142418.67
+Ventura,CA,condo,427788.75
+San Francisco,CA,condo,1227893.5
+San Mateo,CA,condo,876678.08
+San Joaquin,CA,condo,207768.0
+Stanislaus,CA,condo,215594.58
+Sonoma,CA,condo,422145.0
+Tulare,CA,condo,174913.5
+Santa Barbara,CA,condo,582746.08
+Monterey,CA,condo,475901.33
+Solano,CA,condo,317673.33
+Placer,CA,condo,379633.83
+San Luis Obispo,CA,condo,469072.75
+Santa Cruz,CA,condo,580103.5
+Merced,CA,condo,292393.67
+Marin,CA,condo,674089.17
+Butte,CA,condo,206631.67
+Yolo,CA,condo,364793.92
+El Dorado,CA,condo,314139.17
+Shasta,CA,condo,213178.92
+Imperial,CA,condo,180556.17
+Kings,CA,condo,213475.25
+Madera,CA,condo,233101.67
+Napa,CA,condo,561756.25
+Humboldt,CA,condo,302174.5
+Nevada,CA,condo,415531.75
+Mendocino,CA,condo,279793.67
+Yuba,CA,condo,141533.58
+Lake,CA,condo,237184.25
+Tehama,CA,condo,110700.42
+Tuolumne,CA,condo,234461.17
+San Benito,CA,condo,553841.08
+Calaveras,CA,condo,251552.25
+Siskiyou,CA,condo,154497.83
+Amador,CA,condo,216373.17
+Plumas,CA,condo,283788.0
+Inyo,CA,condo,299434.92
+Mariposa,CA,condo,243705.0
+Mono,CA,condo,417191.5
+Alpine,CA,condo,439990.58
+Los Angeles,CA,5 bedroom,1146198.67
+San Diego,CA,5 bedroom,960932.92
+Orange,CA,5 bedroom,1182007.5
+Riverside,CA,5 bedroom,540513.83
+San Bernardino,CA,5 bedroom,542886.58
+Santa Clara,CA,5 bedroom,1820329.33
+Alameda,CA,5 bedroom,1397985.42
+Sacramento,CA,5 bedroom,543391.92
+Contra Costa,CA,5 bedroom,778925.83
+Fresno,CA,5 bedroom,450855.0
+Kern,CA,5 bedroom,361436.0
+Ventura,CA,5 bedroom,881210.92
+San Francisco,CA,5 bedroom,2560990.25
+San Mateo,CA,5 bedroom,2664478.83
+San Joaquin,CA,5 bedroom,532762.67
+Stanislaus,CA,5 bedroom,448736.58
+Sonoma,CA,5 bedroom,911873.83
+Tulare,CA,5 bedroom,387033.33
+Santa Barbara,CA,5 bedroom,1284508.75
+Monterey,CA,5 bedroom,686771.42
+Solano,CA,5 bedroom,624689.5
+Placer,CA,5 bedroom,677504.58
+San Luis Obispo,CA,5 bedroom,993469.33
+Santa Cruz,CA,5 bedroom,1391903.25
+Merced,CA,5 bedroom,398980.58
+Marin,CA,5 bedroom,2148931.42
+Butte,CA,5 bedroom,497873.75
+Yolo,CA,5 bedroom,624324.25
+El Dorado,CA,5 bedroom,806374.17
+Shasta,CA,5 bedroom,476491.17
+Imperial,CA,5 bedroom,324132.08
+Kings,CA,5 bedroom,348618.08
+Madera,CA,5 bedroom,386230.83
+Napa,CA,5 bedroom,885329.42
+Humboldt,CA,5 bedroom,469597.75
+Nevada,CA,5 bedroom,857169.42
+Sutter,CA,5 bedroom,455763.33
+Mendocino,CA,5 bedroom,751945.08
+Yuba,CA,5 bedroom,364639.0
+Lake,CA,5 bedroom,462878.25
+Tehama,CA,5 bedroom,337732.5
+Tuolumne,CA,5 bedroom,456383.25
+San Benito,CA,5 bedroom,753688.17
+Calaveras,CA,5 bedroom,640376.92
+Siskiyou,CA,5 bedroom,291288.17
+Amador,CA,5 bedroom,442952.08
+Lassen,CA,5 bedroom,283067.75
+Del Norte,CA,5 bedroom,484022.42
+Glenn,CA,5 bedroom,292591.58
+Colusa,CA,5 bedroom,353004.67
+Plumas,CA,5 bedroom,465128.08
+Inyo,CA,5 bedroom,519156.33
+Mariposa,CA,5 bedroom,518137.83
+Mono,CA,5 bedroom,1166818.33
+Trinity,CA,5 bedroom,394104.17
+Modoc,CA,5 bedroom,210738.33
+Sierra,CA,5 bedroom,459396.92
+Alpine,CA,5 bedroom,670542.33
